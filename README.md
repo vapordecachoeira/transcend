@@ -20,4 +20,4 @@ A software, given the right environment, will execute forever - not only unaware
 The _**@transcend**_ function decorator takes into the account the given 'date of birth' and, at each call, calculates the chances of the given function execute properly or not. When it's _young_ it pretty much never fails, but as it ages it starts to get old and ill, failing more and more, till the point it simply never executes anymore.
 
 
-Feel
+-- Filipe Moura
