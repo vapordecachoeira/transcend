@@ -1,4 +1,4 @@
-# ~~ &#9651; ~~ Transcend.py
+# <del> &#9651; </del> Transcend.py
 
     # Impermanent are all component things,
     # They arise and cease, that is their nature:
