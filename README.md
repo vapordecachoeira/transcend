@@ -20,4 +20,6 @@ A software, given the right environment, will execute forever - not only unaware
 The _**@transcend**_ function decorator (Python) takes into account the given 'date of birth' of the function and, at each call, calculates the chances of the given function executing properly or not. When it's _young_ it pretty much never fails. With time, as it ages, it starts to get old and ill, failing more and more, till the point it simply never executes anymore.
 
 
+[Official website: https://transcend.fmoura.com](https://transcend.fmoura.com) 
+
 -- Filipe Moura
